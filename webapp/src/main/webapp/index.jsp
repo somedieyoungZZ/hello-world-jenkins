@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  color: white;
+  color: red;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
+<h1>Testing CI/CD Pipeline</h1>
 <p>This is a paragraph.</p>
 
 </body>
